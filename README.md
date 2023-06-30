@@ -13,8 +13,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -30,16 +28,16 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Adel-Harrat/FM-NFT-preview-card-component)
-- Live Site URL: [Add live site URL here](https://fm-nft-preview-card-component-red.vercel.app/)
+- Solution Repo: [Github Repo](https://github.com/Adel-Harrat/FM-NFT-preview-card-component)
+- Live Site URL: [Live Demo](https://fm-nft-preview-card-component-red.vercel.app/)
 
 ## My process
 
 ### Built with
 
-- VITE
-- React js 18
-- TailwindCSS 3
+- Vite
+- React
+- TailwindCss
 - Semantic HTML5
 
 ### What I learned
