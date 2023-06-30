@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.flex-cb {
+  @apply flex items-center justify-between;
+}
+
+.my-transition {
+  @apply transition-all ease-in-out duration-300;
+}
